@@ -46,7 +46,7 @@ Add this to your Claude configuration file:
   "mcpServers": {
     "puppeteer": {
       "command": "python",
-      "args": ["path/to/puppeteer_server.py"]
+      "args": ["path/to/puppeteer.py"]
     }
   }
 }
