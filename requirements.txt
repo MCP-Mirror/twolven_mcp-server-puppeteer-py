@@ -1,2 +1,2 @@
+mcp
 playwright>=1.40.0
-mcp-server>=0.1.0
